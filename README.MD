@@ -1,0 +1,2 @@
+# Contribution
+Helping is simple. Just clone the repository, grab the english translation and start translating. Once you're done with a file, simply create a pull request and I will edit and accept it. There is an issue for each file on Github, so if you are unsure of the wording of a translation, write it there.
