@@ -99,12 +99,12 @@ $l['find_only_approved'] = "Find kun godkendte";
 $l['find_only_unapproved'] = "Find kun afviste";
 $l['find_only_softdeleted'] = "Find kun soft slettede";
 
-$l['redirect_searchresults'] = "Tak. Den søgning er blevet indsendet - Du vil nu blive sendt til resultaterne.";
+$l['redirect_searchresults'] = "Tak. Den søgning er blevet indsendt - Du vil nu blive sendt til resultaterne.";
 
-$l['error_minsearchlength'] = "En eller flere af de søgte ord er kortere end minimum længden. Minimum søgelængde er {1} bogstaver.<br /><br />";
-$l['error_nosearchresults'] = "Desværre, vi kunne ikke finde noget på din søgning.";
+$l['error_minsearchlength'] = "En eller flere af dine nøgleord er for korte. Alle nøgleord skal være på {1} bogstaver eller længere.<br /><br />";
+$l['error_nosearchresults'] = "Desværre, din søgning gav ingen resultater.";
 $l['error_no_search_support'] = "Denne database understøtter ikke søgninger.";
-$l['error_nosearchterms'] = "Du har ikke indtastet nogle søgninger. Som minimum skal du indtaste nogle et nøgleord eller et brugernavn at søge efter.";
-$l['error_searchflooding_1'] = "Desværre, du kan kun lave en søgning hvert {1} sekund. Vent venligst et sekund før du laver en ny søgning.";
-$l['error_searchflooding'] = "Desværre, du kan kun lave en søgning hvert {1} sekund. Vent venligst {2} sekunder før du laver en ny søgning.";
+$l['error_nosearchterms'] = "Du har ikke indtastet nogle søgeparametre. Som minimum skal du indtaste nogle et nøgleord eller et brugernavn at søge efter.";
+$l['error_searchflooding_1'] = "Desværre, du kan kun lave en søgning hvert {1}. sekund. Vent venligst et sekund før du laver en ny søgning.";
+$l['error_searchflooding'] = "Desværre, du kan kun lave en søgning hvert {1}. sekund. Vent venligst {2} sekunder før du laver en ny søgning.";
 $l['error_invalidsearch'] = "Ugyldig søgning - Prøv igen.";
