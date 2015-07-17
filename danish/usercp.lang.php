@@ -1,6 +1,6 @@
 <?php
 /**
- * MyBB 1.8 English Language Pack
+ * MyBB 1.8 Danish Language Pack
  * Copyright 2014 MyBB Group, All Rights Reserved
  *
  */
@@ -57,7 +57,7 @@ $l['no_avatar'] = "Intet profilbillede";
 $l['no_avatar_note'] = "Vælg denne funktion hvis du ikke ønsker at have et profilbillede.";
 $l['change_username'] = "Skift brugernavn";
 $l['new_username'] = "Nyt brugernavn:";
-$l['update_username'] = "Updater brugernavn";
+$l['update_username'] = "Opdater brugernavn";
 $l['edit_lists'] = "Ændre venne/ignorer liste";
 $l['edit_buddy_list'] = "Ændre vennelisten";
 $l['edit_ignore_list'] = "Ændre Ignorer listen";
@@ -336,7 +336,7 @@ $l['redirect_emailupdated'] = "Dit email er blevet opdateret.<br />Du vil nu bli
 $l['redirect_passwordupdated'] = "Din adgangskode er blevet ændret.<br />Du vil nu blive sendt til adgangskode indstillingerne.";
 $l['redirect_changeemail_activation'] = "Din email adresse er blevet opdateret. For at din nye e-mail-adresse kan blive aktiv, kræver vi at du fuldfører en valideringsproces.<p>Tjek venligst din nye e-mail-adresse du har angivet, for yderligere instruktioner om hvordan at fuldfører processen til aktivering af din konto.</p>";
 $l['redirect_avatarupdated'] = "Dit profilbillede er blevet opdateret.<br />Du vil nu blive sendt til profilbillede indstillingerne.";
-$l['error_noavatar'] = "DU har ikke valgt et profilbillede. Hvis du ikke ønsker at have et profilbillede, vælg det muligheden \"No avatar\"";
+$l['error_noavatar'] = "Du har ikke valgt et profilbillede. Hvis du ikke ønsker at have et profilbillede, vælg det muligheden \"No avatar\"";
 $l['error_avatartype'] = "Ugyldig filtype. Et profilbillede skal være i GIF, JPEG, BMP or PNG format.";
 $l['error_alreadyingroup'] = "Brugeren du har angivet er allerede en del af brugergruppen.";
 $l['error_usercp_return_date_past'] = "Du kan ikke vende tilbage i fortiden!";
