@@ -12,7 +12,7 @@ $l['username'] = "Brugernavn";
 $l['lastvisit'] = "Sidste login";
 $l['email'] = "Email";
 $l['pm'] = "Privat besked";
-$l['mod_forums'] = "Forum(er)";
+$l['mod_forums'] = "Fora";
 $l['online'] = "Online";
 $l['offline'] = "Offline";
 
@@ -21,4 +21,4 @@ $l['group_members'] = "Medlem(er)";
 
 $l['no_members'] = "Ingen medlemmer i denne gruppe";
 
-$l['error_noteamstoshow'] = "Der er intet forum team at vise.";
+$l['error_noteamstoshow'] = "Der er ingen forum teams at vise.";
